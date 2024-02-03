@@ -88,7 +88,7 @@ class Main(tk.Tk):  # Héritage de tk.Tk
 
 
 
-    # La Méthode de READ
+    # La Méthode READ
     def readProduit(self):
         # Créer une nouvelle fenêtre pour afficher les produits
         read_window = tk.Toplevel()
